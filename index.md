@@ -6,4 +6,4 @@
 
 [EECS 494] [Clone Master](https://jerrycmy2001.github.io/Clone-Master-Unity/)
 
-[EECS 494] [Blockraft](https://jerrycmy-2001.itch.io/blockraft)
+[EECS 494] [Blockraft](https://solstice-games.itch.io/blockraft-energy-crisis)
